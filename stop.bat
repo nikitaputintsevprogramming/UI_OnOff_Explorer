@@ -1,0 +1,3 @@
+@echo off
+echo запуск процесса explorer...
+start explorer.exe
